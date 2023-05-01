@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/silva/Desktop/Adder_Subtractor/eightbit/addsub.xst" -ofn "C:/Users/silva/Desktop/Adder_Subtractor/eightbit/addsub.syr" 
+xst -intstyle ise -ifn "C:/Users/silva/Desktop/Adder_Subtractor/eightbit/addsub.xst" -ofn "C:/Users/silva/Desktop/Adder_Subtractor/eightbit/addsub.syr" 

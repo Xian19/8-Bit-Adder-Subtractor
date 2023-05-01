@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/silva/Desktop/Adder_Subtractor/eightbit/adder_subtractor.xst" -ofn "C:/Users/silva/Desktop/Adder_Subtractor/eightbit/adder_subtractor.syr" 
